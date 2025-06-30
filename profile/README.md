@@ -61,7 +61,7 @@ SAPIEN PowerShell Studio is an advanced development environment for creating, ed
 
 ### 🖼 Preview
 
-![SAPIEN PowerShell Studio UI](https://www.sapien.com/assets/img/screenshots/powershell_studio/12_Source%20Control%20-%20Git.png)
+![SAPIEN PowerShell Studio UI](https://arcanecode.com/wp-content/uploads/2016/05/image.png)
 
 ---
 
